@@ -11,44 +11,47 @@
     </header>
     <main>
         <!-- breadcrumb -->
-        <div class="container">
-            <nav class="breadcrumb" aria-label="breadcrumbs">
-                <ul>
-                    <li><a href="index.php">หน้าแรก</a></li>
-                    <li class="is-active"><a href="#">บริการของเรา</a></li>
-                </ul>
-            </nav>
-        </div>
+        <section id="breadcrumb" class="section">
+            <div class="container">
+                <nav class="breadcrumb" aria-label="breadcrumbs">
+                    <ul>
+                        <li><a href="index.php">หน้าแรก</a></li>
+                        <li class="is-active"><a href="#">บริการของเรา</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </section>
+
 
         <!-- Service section -->
         <section id="company-service" class="section">
             <div class="container">
-                <div class="columns is-multiline is-mobile is-vcentered">
-                    <div class="column is-6">
+                <div class="columns is-multiline is-vcentered">
+                    <div class="column is-6-tablet">
                         <div class="content">
                             <img src="images/service-img/sample-1.jpg" alt="บริการซ่อมอุปกรณ์ทางการแพทย์ทุกชนิด" title="บริการซ่อมอุปกรณ์ทางการแพทย์ทุกชนิด">
                         </div>
                     </div>
-                    <div class="column is-6">
+                    <div class="column is-6-tablet">
                         <div class="content">
-                            <h1 class="title is-size-1">บริการซ่อมอุปกรณ์ทางการแพทย์ทุกชนิด</h1>
+                            <h1 class="title is-size-4-mobile is-size-4-tablet has-text-weight-bold">บริการซ่อมอุปกรณ์ทางการแพทย์ทุกชนิด</h1>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                         </div>
                     </div>
-                    <div class="column is-6">
+                    <div class="column is-6-tablet">
                         <div class="content">
-                        <h1 class="title is-size-1">บริการสอบเทียบเครื่องมือแพทย์</h1>
+                            <h1 class="title is-size-4-mobile is-size-4-tablet has-text-weight-bold">บริการสอบเทียบเครื่องมือแพทย์</h1>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                         </div>
                     </div>
-                    <div class="column is-6">
+                    <div class="column is-6-tablet">
                         <div class="content">
-                        <img src="images/service-img/sample-2.jpg" alt="บริการสอบเทียบเครื่องมือแพทย์" title="บริการสอบเทียบเครื่องมือแพทย์">
+                            <img src="images/service-img/sample-2.jpg" alt="บริการสอบเทียบเครื่องมือแพทย์" title="บริการสอบเทียบเครื่องมือแพทย์">
+                        </div>
                     </div>
                 </div>
-            </div>
         </section>
-        
+
         <!-- Contact Banner + Footer -->
         <?php include('elements-for-contact/contact-footer.php') ?>
     </main>

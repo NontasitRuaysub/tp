@@ -4,7 +4,7 @@
         <div class="columns is-vcentered">
             <div class="column">
                 <div class="content">
-                    <p class="is-size-4-mobile is-size-4-desktop has-text-weight-bold p-3">ติดต่อสั่งซื้อสินค้า
+                    <p class="is-size-4-touch is-size-4-desktop has-text-weight-bold p-3">ติดต่อสั่งซื้อสินค้า
                         สอบถามรายละเอียด หรือ
                         ขอใบเสนอราคาได้แล้ววันนี้ !</p>
                 </div>
@@ -32,7 +32,7 @@
                 </nav>
             </div>
             <div class="column">
-                <div class="content footer-address  is-size-6">
+                <div class="content footer-address is-size-6">
                     <p>บริษัท ทีแอนด์พี โพรเทค</p>
                     <p>ที่อยู่ 411/14 ถนน จรัญสนิทวงศ์ 83 แขวงบางอ้อ เขตบางพลัด กรุงเทพฯ 10700</p>
                     <p>โทร: 063-526-9923</p>

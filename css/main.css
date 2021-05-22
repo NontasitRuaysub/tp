@@ -1,36 +1,54 @@
-*, h1, h2, h3, h4, h5, h6 {
+*,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: 'Sarabun', sans-serif;
 }
+
 body {
     background-color: #FFF6F3;
     margin: 0;
     padding: 0;
 }
+
+
 /* multi-uses */
+
+
 /* red background color and white font */
+
 .color-bg-font {
     background-color: #ED1C24;
     color: white;
 }
 
+
 /* Navbar */
+
 #header-navbar .navbar-group {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
+
 .brand-img {
     width: 200px;
 }
+
 .navbar {
     padding: 20px 0 10px 0;
     background-color: #FFF6F3;
     border-bottom: 1px solid #ECEDFD;
 }
-.navbar-cs-menu > ul {
+
+.navbar-cs-menu>ul {
     display: flex;
 }
-.navbar-cs-menu > ul li a {
+
+.navbar-cs-menu>ul li a {
     color: black;
 }
 
@@ -38,109 +56,194 @@ body {
     position: relative;
     padding-right: 20px;
 }
+
 .arrow {
     position: absolute;
 }
+
 .dropdown-menu {
     display: none;
 }
+
 .dropdown-menu ul li:hover {
     background-color: #ebe4e1;
 }
+
 .active {
     display: block;
 }
 
+
+/* Breadcrumb */
+
+#breadcrumb {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#breadcrumb li a {
+    color: #BB8378;
+}
+
+
 /* Header Carousel */
+
 #header-text {
     font-size: 25px;
 }
+
 #header-carousel .owl-stage {
     background-color: #ECEDFD;
 }
-#header-carousel div img { 
+
+#header-carousel div img {
     position: relative;
 }
+
 #header-carousel .owl-dots {
     position: absolute;
     bottom: 30px;
     width: 100%;
     margin: 0 auto;
 }
+
 #header-carousel button.owl-dot {
     background-color: rgba(0, 0, 0, 0.3);
 }
+
 #header-carousel .owl-dots .owl-dot.active span {
     background-color: black;
 }
+
+
 /* Header group text */
-.header-group, #contact-banner, #review-section{
+
+.header-group,
+#contact-banner,
+#review-section {
     background-color: #ECEDFD;
     padding: 20px;
 }
-.header-group-text, .header-group-text h3 {
+
+.header-group-text,
+.header-group-text h3 {
     color: #BB8378;
 }
+
 .divider {
     display: inline-block;
     height: 50px;
     border-left: 1px solid #BB8378;
     border-right: 1px solid #BB8378;
 }
+
+
 /* Welcome Section */
+
 #welcome {
     margin: 20px 0;
 }
+
 .welcome-text {
     padding: 0 100px;
 }
+
+
 /* Product Categories Section */
+
 #product-cate a {
     color: black;
 }
+
 .products-group p {
     text-align: left;
 }
+
+
 /* Contact Banner Section */
+
 #contact-banner {
     padding: 10px 0;
 }
+
 #contact-banner p {
     color: #BB8378;
 }
+
+
 /* Review Section */
-#review-section, #review-section h3 {
+
+#review-section,
+#review-section h3 {
     color: #BB8378;
 }
+
 #review-section div.item {
     padding: 10px 50px;
 }
+
 #review-carousel .owl-dots {
     margin-top: 30px;
 }
+
 .review-header h3 {
     margin: 20px 0;
 }
+
+
 /* footer */
+
 #footer {
     background-color: #ED1C24;
     color: white;
     font-size: 20px;
     padding: 70px 0 50px 0;
 }
+
 #footer-nav .content {
     display: flex;
     flex-direction: column;
     padding: 0 40px;
 }
+
 #footer-nav .content a {
     padding: 10px 0;
     color: white;
 }
+
+
+/* contact.php */
+
+#contact {
+    padding-top: 0;
+}
+
+#contact h1 {
+    margin-bottom: 50px;
+}
+
+#contact .columns {
+    margin-top: 50px;
+}
+
+
+/* service.php */
+
+#company-service {
+    padding-top: 0;
+}
+
+
 /* Responsive Section */
 
+
 /* Responsive min-width: 320px - max-width 768px */
+
 @media only screen and (min-width: 320px) and (max-width: 768px) {
+    /* Breadcrumb */
+    .breadcrumb {
+        padding-left: 20px;
+    }
     /* Header and Navbar Section */
     .brand-img {
         width: 80%;
@@ -159,14 +262,15 @@ body {
         padding: 20px;
     }
     .welcome-text {
-    padding: 0;
+        padding: 0;
     }
     .welcome-text h1 {
         padding: 0;
         line-height: 1.5;
         margin-bottom: 30px;
     }
-    .welcome-text h1 span, .welcome-text p span {
+    .welcome-text h1 span,
+    .welcome-text p span {
         display: block;
     }
     /* Products Categories Section */
@@ -188,7 +292,8 @@ body {
         width: 350px;
     }
     /* Promotion */
-    #promotion img, #new-product img {
+    #promotion img,
+    #new-product img {
         width: 500px;
     }
     /* Ask Expert Section*/
@@ -208,8 +313,15 @@ body {
         border-top: 1px solid rgba(255, 255, 255, 0.3);
         border-bottom: 1px solid rgba(255, 255, 255, 0.3);
     }
+    /* Contact.php */
+    #contact .contact-detail {
+        text-align: center;
+    }
 }
+
+
 /* Responsive 769px - 1023px */
+
 @media only screen and (min-width: 769px) and (max-width: 1023px) {
     /* Header and Navbar Section */
     .navbar-brand {
@@ -234,23 +346,34 @@ body {
     #footer-nav .content {
         padding: 0 40px;
     }
-} 
+    /* Contact.php */
+    #contact .contact-line {
+        text-align: right;
+    }
+}
+
+
 /* Responsive 1024 up */
+
 @media only screen and (min-width: 1024px) {
-    .navbar-menu a, .navbar-end p {
+    .navbar-menu a,
+    .navbar-end p {
         font-size: 18px;
     }
     .navbar-brand {
         padding: 0 20px;
     }
-    .navbar-menu{
+    .navbar-menu {
         margin-left: 30px;
     }
     #product-cate {
         padding-top: 0;
         margin: 20px 0;
     }
-    #promotion, #expert, #review-section, #new-product {
+    #promotion,
+    #expert,
+    #review-section,
+    #new-product {
         margin: 20px 0;
     }
     /* Contact Bannner */
@@ -268,27 +391,39 @@ body {
         text-align: right;
         padding-top: 10px;
     }
-    /* Promotion */
-
+    /* contact.php */
+    #contact .contact-line {
+        text-align: right;
+    }
 }
+
+
 /* Responsive 1216 up */
+
 @media only screen and (min-width: 1216px) {
     .brand-img {
         margin-left: 10px;
     }
-    .navbar-menu{
+    .navbar-menu {
         margin-left: 100px;
     }
 }
+
+
 /* Responsive 1408 up */
+
 @media only screen and (min-width: 1408px) {
-    .navbar-menu{
+    .navbar-menu {
         margin-left: 190px;
     }
 }
 
+
 /* Navbar Responsive section */
+
+
 /* Responsive below 1024px */
+
 @media only screen and (max-width: 1023px) {
     #header-navbar .container {
         padding-bottom: 0;
@@ -298,14 +433,15 @@ body {
         justify-content: space-between;
         width: 100%;
     }
-    #header-navbar .navbar-group, .navbar-cs-menu ul {
+    #header-navbar .navbar-group,
+    .navbar-cs-menu ul {
         flex-direction: column;
     }
     .navbar-cs-menu {
         width: 100%;
         display: none;
     }
-    .navbar-cs-menu > ul li {
+    .navbar-cs-menu>ul li {
         border-bottom: 1px solid rgba(0, 0, 0, 0.199);
         width: 100%;
         padding: 15px
@@ -331,12 +467,14 @@ body {
         transform: rotate(270deg);
     }
 }
+
+
 /* Responsive above 1024px */
+
 @media only screen and (min-width: 1024px) {
-    .navbar-cs-menu > ul li {
+    .navbar-cs-menu>ul li {
         margin: 0 15px;
     }
-    
     .dropdown-menu ul li {
         padding: 10px 0;
     }

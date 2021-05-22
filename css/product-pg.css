@@ -1,27 +1,58 @@
-/* Breadcrumb Section */
-.breadcrumb {
-    margin: 50px 0;
-}
-.breadcrumb li a {
-    color: #BB8378;
-    font-size: 20px;
-}
 /* Product Section */
+
 #product {
     padding-top: 0;
     padding-bottom: 0;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
+
 #product h1 {
-    margin: 100px;
+    margin-bottom: 50px;
 }
+
 .products-group p {
     color: black;
 }
 
+
 /* Responsive Section */
-/* Responsive 300px - 768px */
+
+
+/* Responsive 320px - 768px */
+
+@media only screen and (min-width: 320px) and (max-width: 768px) {
+    /* oxygen saturation meter.php */
+    .oxygen-name {
+        display: block;
+    }
+}
+
+
 /* Responsive 769px - 1023px */
+
+@media only screen and (min-width: 769px) and (max-width: 1023px) {
+    #product .columns .column {
+        padding: 20px 30px;
+    }
+    #product .columns .column img {
+        margin-bottom: 20px;
+    }
+}
+
+
 /* Responsive 1024px - 1215px */
+
+@media only screen and (min-width: 1024px) {
+    #product .columns .column {
+        padding: 20px 60px;
+    }
+    #product .columns .column img {
+        margin-bottom: 20px;
+    }
+}
+
+
 /* Responsive 1216px - 1407px */
+
+
 /* Responsive 1408px up */

@@ -1,16 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <?php include('elements/head.php') ?>
 </head>
-
 <body>
     <header>
         <?php include('elements/head-nav.php') ?>
     </header>
-
-
     <main>
         <!-- Carousel header -->
         <div id="header-carousel" class="owl-carousel owl-theme">
@@ -176,7 +172,7 @@
                 <div class="columns is-vcentered">
                     <div class="column">
                         <div class="content">
-                            <p class="is-size-4-mobile is-size-4-tablet has-text-weight-bold p-3">ติดต่อสั่งซื้อสินค้า
+                            <p class="is-size-4-touch is-size-4-desktop has-text-weight-bold p-3">ติดต่อสั่งซื้อสินค้า
                                 สอบถามรายละเอียด<span>หรือขอใบเสนอราคาได้แล้ววันนี้ !</span>
                             </p>
                         </div>

@@ -21,7 +21,7 @@
         <!-- Navbar Menu -->
         <div class="navbar-cs-menu is-size-5-mobile">
             <ul>
-                <li><a href="index.php">หน้าแรก</a></li>
+                <li><a href="../index.php">หน้าแรก</a></li>
                 <li class="has-cs-dropdown"><a href="#">สินค้าของเรา</a><span class="arrow">&#62;</span>
                     <div class="dropdown-menu">
                         <ul>
