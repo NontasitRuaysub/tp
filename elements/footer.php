@@ -1,24 +1,3 @@
-<!-- Contact Banner Section -->
-<section id="contact-banner" class="section">
-    <div class="container">
-        <div class="columns is-vcentered">
-            <div class="column">
-                <div class="content">
-                    <p class="is-size-5 has-text-weight-bold p-3">ติดต่อสั่งซื้อสินค้า
-                        สอบถามรายละเอียด หรือ
-                        ขอใบเสนอราคาได้แล้ววันนี้ !</p>
-                </div>
-            </div>
-            <div class="column">
-                <div class="content contact-banner-pic">
-                    <a href="https://line.me/R/ti/p/%40578iorbb">
-                        <img src="images/contact-img/line-banner.png" alt="Line id tpprotech18" title="Line id tpprotech18">
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 <!-- Footer -->
 <footer id="footer">
     <div class="container pb-6">

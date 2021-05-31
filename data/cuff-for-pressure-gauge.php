@@ -16,8 +16,8 @@
             <div class="container">
                 <nav class="breadcrumb" aria-label="breadcrumbs">
                     <ul>
-                        <li><a href="../index.php">หมวดหมู่สินค้า</a></li>
-                        <li class="is-active"><a href="#">ผ้าพันแขนสำหรับ เครื่องวัดความดัน/ข้อต่อ</a></li>
+                        <li class="has-text-weight-light"><a href="../index.php">หมวดหมู่สินค้า</a></li>
+                        <li class="is-active has-text-weight-light"><a href="#">ผ้าพันแขน เครื่องวัดความดัน/ข้อต่อ</a></li>
                     </ul>
                 </nav>
             </div>
@@ -25,19 +25,19 @@
         <!-- Header Product-->
         <section id="product" class="section">
             <div class="container">
-                <h1 class="title is-size-4-touch is-size-2-desktop has-text-weight-bold has-text-centered">ผ้าพันแขนสำหรับ เครื่องวัดความดัน/ข้อต่อ</h1>
+                <h1 class="title is-size-5 has-text-weight-bold has-text-centered">ผ้าพันแขนสำหรับ เครื่องวัดความดัน/ข้อต่อ</h1>
                 <!-- Products list -->
                 <div class="columns is-multiline is-mobile products-group">
                     <div class="column is-6">
                         <div class="content">
                             <img src="../images/product-groups/ผ้าพันแขนสำหรับวัดความดัน/ผ้าพันแขน-เครื่องวัดความดัน.jpg" alt="ผ้าพันแขน-เครื่องวัดความดัน" title="ผ้าพันแขน-เครื่องวัดความดัน">
-                            <p class="is-size-5 has-text-weight-medium mt-4">ผ้าพันแขน เครื่องวัดความดัน</p>
+                            <p class="is-size-6 has-text-weight-light mt-4">ผ้าพันแขน เครื่องวัดความดัน</p>
                         </div>
                     </div>
                     <div class="column is-6">
                         <div class="content">
                             <img src="../images/product-groups/ผ้าพันแขนสำหรับวัดความดัน/ข้อต่อ-เครื่องวัดความดัน.jpg" alt="ข้อต่อ-เครื่องวัดความดัน" title="ข้อต่อ-เครื่องวัดความดัน">
-                            <p class="is-size-5 has-text-weight-medium mt-4">ข้อต่อ เครื่องวัดความดัน</p>
+                            <p class="is-size-6 has-text-weight-light mt-4">ข้อต่อ เครื่องวัดความดัน</p>
                         </div>
                     </div>
                 </div>

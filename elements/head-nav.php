@@ -1,6 +1,6 @@
 <!-- Header Text -->
 <div id="header-text" class="color-bg-font py-5">
-    <p class="is-size-5-mobile is-size-5-tablet has-text-centered">ทางบริษัทแจ้งหยุดทำการวันสงกรานต์ตั้งแต่วันที่ 13-16 เมษายน
+    <p class="is-size-6 has-text-centered">ทางบริษัทแจ้งหยุดทำการวันสงกรานต์ตั้งแต่วันที่ 13-16 เมษายน
         2564</p>
 </div>
 <!-- Navbar -->

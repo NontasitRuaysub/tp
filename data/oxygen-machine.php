@@ -16,8 +16,8 @@
             <div class="container">
                 <nav class="breadcrumb" aria-label="breadcrumbs">
                     <ul>
-                        <li><a href="../index.php">หมวดหมู่สินค้า</a></li>
-                        <li class="is-active"><a href="#">เครื่องผลิตออกซิเจน</a></li>
+                        <li class="has-text-weight-light"><a href="../index.php">หมวดหมู่สินค้า</a></li>
+                        <li class="is-active has-text-weight-light"><a href="#">เครื่องผลิตออกซิเจน</a></li>
                     </ul>
                 </nav>
             </div>
@@ -25,25 +25,25 @@
         <!-- Header Product-->
         <section id="product" class="section">
             <div class="container">
-                <h1 class="title is-size-4-touch is-size-2-desktop has-text-weight-bold has-text-centered">เครื่องผลิตออกซิเจน</h1>
+                <h1 class="title is-size-5 has-text-centered">เครื่องผลิตออกซิเจน</h1>
                 <!-- Products list -->
                 <div class="columns is-multiline is-mobile products-group">
                     <div class="column is-6">
                         <div class="content">
                             <img src="../images/product-groups/เครื่องผลิตออกซิเจน/CONTEC21.jpg" alt="CONTECT21" title="CONTECT21">
-                            <p class="is-size-5 has-text-weight-medium mt-4">CONTECT21</p>
+                            <p class="is-size-6 has-text-weight-light mt-4">CONTECT21</p>
                         </div>
                     </div>
                     <div class="column is-6">
                         <div class="content">
                             <img src="../images/product-groups/เครื่องผลิตออกซิเจน/OC3B.jpg" alt="OC3B" title="OC3B">
-                            <p class="is-size-5 has-text-weight-medium mt-4">OC3B</p>
+                            <p class="is-size-6 has-text-weight-light mt-4">OC3B</p>
                         </div>
                     </div>
                     <div class="column is-6">
                         <div class="content">
                             <img src="../images/product-groups/เครื่องผลิตออกซิเจน/OC5B.jpg" alt="OC5B" title="OC5B">
-                            <p class="is-size-5 has-text-weight-medium mt-4">OC5B</p>
+                            <p class="is-size-6 has-text-weight-light mt-4">OC5B</p>
                         </div>
                     </div>
                 </div>

@@ -17,8 +17,8 @@
             <div class="container">
                 <nav class="breadcrumb" aria-label="breadcrumbs">
                     <ul>
-                        <li><a href="index.php">หน้าแรก</a></li>
-                        <li class="is-active"><a href="#">ติดต่อเรา</a></li>
+                        <li class="has-text-weight-light"><a href="index.php">หน้าแรก</a></li>
+                        <li class="is-active has-text-weight-light"><a href="#">คำถามที่พบบ่อย</a></li>
                     </ul>
                 </nav>
             </div>
@@ -26,86 +26,86 @@
         <!-- Q&A section -->
         <section id="according-section" class="section">
             <div class="container">
-                <h1 class="title is-size-3-mobile is-size-2-desktop has-text-centered">คำถามที่พบบ่อย</h1>
+                <h1 class="title is-size-5 has-text-centered">คำถามที่พบบ่อย</h1>
                 <div class="according">
                     <div class="content content-box">
                         <div class="question-box">
-                            <p class="is-size-5-mobile">1. สามารถสั่งซื้อสินค้าแบบไม่มากได้ไหม?</p>
+                            <p class="is-size-6 has-text-weight-light">1. สามารถสั่งซื้อสินค้าแบบไม่มากได้ไหม?</p>
                         </div>
                         <div class="answer-box">
-                            <p class="is-size-5-mobile">เรามีบริการสำหรับลูกค้ารายย่อย ที่ต้องสั่งซื้อไม่มาก กรุณาติดต่อเราเพื่อขอรายละเอียดเพิ่มเติม</p>
+                            <p class="is-size-6 has-text-weight-light">เรามีบริการสำหรับลูกค้ารายย่อย ที่ต้องสั่งซื้อไม่มาก กรุณาติดต่อเราเพื่อขอรายละเอียดเพิ่มเติม</p>
                         </div>
                     </div>
                     <div class="content content-box">
                         <div class="question-box">
-                            <p class="is-size-5-mobile">2. ระยะเวลาในการส่งมอบสินค้า นานแค่ไหน?</p>
+                            <p class="is-size-6 has-text-weight-light">2. ระยะเวลาในการส่งมอบสินค้า นานแค่ไหน?</p>
                         </div>
                         <div class="answer-box">
-                            <p class="is-size-5-mobile">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt quae provident fugiat illo eligendi nam, asperiores corporis quod iusto. Recusandae consequatur molestiae dolores illo! Non reiciendis deleniti tempore nulla quisquam.</p>
+                            <p class="is-size-6 has-text-weight-light">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt quae provident fugiat illo eligendi nam, asperiores corporis quod iusto. Recusandae consequatur molestiae dolores illo! Non reiciendis deleniti tempore nulla quisquam.</p>
                         </div>
                     </div>
                     <div class="content content-box">
                         <div class="question-box">
-                            <p class="is-size-5-mobile">3. สินค้ามีการรับประกันหรือไม่?</p>
+                            <p class="is-size-6 has-text-weight-light">3. สินค้ามีการรับประกันหรือไม่?</p>
                         </div>
                         <div class="answer-box">
-                            <p class="is-size-5-mobile">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt quae provident fugiat illo eligendi nam, asperiores corporis quod iusto. Recusandae consequatur molestiae dolores illo! Non reiciendis deleniti tempore nulla quisquam.</p>
+                            <p class="is-size-6 has-text-weight-light">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt quae provident fugiat illo eligendi nam, asperiores corporis quod iusto. Recusandae consequatur molestiae dolores illo! Non reiciendis deleniti tempore nulla quisquam.</p>
                         </div>
                     </div>
                     <div class="content content-box">
                         <div class="question-box">
-                            <p class="is-size-5-mobile">4. หากสินค้ามีปัญหา สามารถเคลมได้ไหม?</p>
+                            <p class="is-size-6 has-text-weight-light">4. หากสินค้ามีปัญหา สามารถเคลมได้ไหม?</p>
                         </div>
                         <div class="answer-box">
-                            <p class="is-size-5-mobile">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt quae provident fugiat illo eligendi nam, asperiores corporis quod iusto. Recusandae consequatur molestiae dolores illo! Non reiciendis deleniti tempore nulla quisquam.</p>
+                            <p class="is-size-6 has-text-weight-light">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt quae provident fugiat illo eligendi nam, asperiores corporis quod iusto. Recusandae consequatur molestiae dolores illo! Non reiciendis deleniti tempore nulla quisquam.</p>
                         </div>
                     </div>
                     <div class="content content-box">
                         <div class="question-box">
-                            <p class="is-size-5-mobile">5. มีราคาส่ง สำหรับการสั่งซื้อสินค้าปริมาณมากหรือไม่?</p>
+                            <p class="is-size-6 has-text-weight-light">5. มีราคาส่ง สำหรับการสั่งซื้อสินค้าปริมาณมากหรือไม่?</p>
                         </div>
                         <div class="answer-box">
-                            <p class="is-size-5-mobile">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt quae provident fugiat illo eligendi nam, asperiores corporis quod iusto. Recusandae consequatur molestiae dolores illo! Non reiciendis deleniti tempore nulla quisquam.</p>
+                            <p class="is-size-6 has-text-weight-light">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt quae provident fugiat illo eligendi nam, asperiores corporis quod iusto. Recusandae consequatur molestiae dolores illo! Non reiciendis deleniti tempore nulla quisquam.</p>
                         </div>
                     </div>
                     <div class="content content-box">
                         <div class="question-box">
-                            <p class="is-size-5-mobile">6. บริการสอบเทียบ ต้องใช้เอกสารอะไรบ้าง?</p>
+                            <p class="is-size-6 has-text-weight-light">6. บริการสอบเทียบ ต้องใช้เอกสารอะไรบ้าง?</p>
                         </div>
                         <div class="answer-box">
-                            <p class="is-size-5-mobile">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt quae provident fugiat illo eligendi nam, asperiores corporis quod iusto. Recusandae consequatur molestiae dolores illo! Non reiciendis deleniti tempore nulla quisquam.</p>
+                            <p class="is-size-6 has-text-weight-light">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt quae provident fugiat illo eligendi nam, asperiores corporis quod iusto. Recusandae consequatur molestiae dolores illo! Non reiciendis deleniti tempore nulla quisquam.</p>
                         </div>
                     </div>
                     <div class="content content-box">
                         <div class="question-box">
-                            <p class="is-size-5-mobile">7. การสอบเทียบอุปกรณ์การแพทย์ ใช้เวลากี่วัน?</p>
+                            <p class="is-size-6 has-text-weight-light">7. การสอบเทียบอุปกรณ์การแพทย์ ใช้เวลากี่วัน?</p>
                         </div>
                         <div class="answer-box">
-                            <p class="is-size-5-mobile">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt quae provident fugiat illo eligendi nam, asperiores corporis quod iusto. Recusandae consequatur molestiae dolores illo! Non reiciendis deleniti tempore nulla quisquam.</p>
+                            <p class="is-size-6 has-text-weight-light">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt quae provident fugiat illo eligendi nam, asperiores corporis quod iusto. Recusandae consequatur molestiae dolores illo! Non reiciendis deleniti tempore nulla quisquam.</p>
                         </div>
                     </div>
                     <div class="content content-box">
                         <div class="question-box">
-                            <p class="is-size-5-mobile">8. มีแคตตาล๊อคสินค้าที่สามารถส่งให้ทางอีเมล์ได้หรือไม่?</p>
+                            <p class="is-size-6 has-text-weight-light">8. มีแคตตาล๊อคสินค้าที่สามารถส่งให้ทางอีเมล์ได้หรือไม่?</p>
                         </div>
                         <div class="answer-box">
-                            <p class="is-size-5-mobile">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt quae provident fugiat illo eligendi nam, asperiores corporis quod iusto. Recusandae consequatur molestiae dolores illo! Non reiciendis deleniti tempore nulla quisquam.</p>
+                            <p class="is-size-6 has-text-weight-light">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt quae provident fugiat illo eligendi nam, asperiores corporis quod iusto. Recusandae consequatur molestiae dolores illo! Non reiciendis deleniti tempore nulla quisquam.</p>
                         </div>
                     </div>
                     <div class="content content-box">
                         <div class="question-box">
-                            <p class="is-size-5-mobile">9. มีสัญญาซ่อมบำรุงอุปกรณ์การแพทย์เป็นรายปีหรือไม่?</p>
+                            <p class="is-size-6 has-text-weight-light">9. มีสัญญาซ่อมบำรุงอุปกรณ์การแพทย์เป็นรายปีหรือไม่?</p>
                         </div>
                         <div class="answer-box">
-                            <p class="is-size-5-mobile">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt quae provident fugiat illo eligendi nam, asperiores corporis quod iusto. Recusandae consequatur molestiae dolores illo! Non reiciendis deleniti tempore nulla quisquam.</p>
+                            <p class="is-size-6 has-text-weight-light">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt quae provident fugiat illo eligendi nam, asperiores corporis quod iusto. Recusandae consequatur molestiae dolores illo! Non reiciendis deleniti tempore nulla quisquam.</p>
                         </div>
                     </div>
                     <div class="content content-box">
                         <div class="question-box">
-                            <p class="is-size-5-mobile">10. บริการซ่อมบำรุง เปิด 24 ชั่วโมงหรือไม่?</p>
+                            <p class="is-size-6 has-text-weight-light">10. บริการซ่อมบำรุง เปิด 24 ชั่วโมงหรือไม่?</p>
                         </div>
                         <div class="answer-box">
-                            <p class="is-size-5-mobile">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt quae provident fugiat illo eligendi nam, asperiores corporis quod iusto. Recusandae consequatur molestiae dolores illo! Non reiciendis deleniti tempore nulla quisquam.</p>
+                            <p class="is-size-6 has-text-weight-light">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt quae provident fugiat illo eligendi nam, asperiores corporis quod iusto. Recusandae consequatur molestiae dolores illo! Non reiciendis deleniti tempore nulla quisquam.</p>
                         </div>
                     </div>
                 </div>

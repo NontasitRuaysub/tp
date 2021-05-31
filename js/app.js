@@ -1,15 +1,3 @@
-// Navbar Toggle for mobile
-// let navbarToggle = document.querySelector('.navbar-burger');
-// let navbarMenu = document.querySelector('.navbar-menu');
-
-// navbarToggle.addEventListener('click', () => {
-//     navbarToggle.classList.toggle('is-active');
-//     navbarMenu.classList.toggle('is-active');
-// });
-
-
-
-
 // Carousel header
 $('.owl-carousel').owlCarousel({
     autoplay: true,
@@ -30,10 +18,10 @@ $('.owl-carousel').owlCarousel({
     }
 });
 
-
-$(document).ready(function () {
+// For Navbar mobile screen
+$(document).ready(function() {
     // For Navbar
-    $('.navbar-burger').on('click', function () {
+    $('.navbar-burger').on('click', function() {
         $('.navbar-cs-menu').slideToggle('active');
 
         if ($(this).hasClass('is-active')) {
@@ -43,10 +31,10 @@ $(document).ready(function () {
         }
     });
     // for products
-    $('.has-cs-dropdown').on('click', function (e) {
+    $('.has-cs-dropdown').on('click', function(e) {
         e.stopPropagation();
         $('.dropdown-menu').slideToggle('active');
-        
+
         if ($('.arrow').hasClass('arrow-up')) {
             $('.arrow').removeClass('arrow-up');
         } else {
@@ -55,17 +43,11 @@ $(document).ready(function () {
     });
 });
 
-
-
-
-
-
 // For According menu on q-and-a.php 
 const accordion = document.getElementsByClassName('content-box');
 
 for (i = 0; i < accordion.length; i++) {
-    accordion[i].addEventListener('click', function () {
+    accordion[i].addEventListener('click', function() {
         this.classList.toggle('active')
     })
 }
-

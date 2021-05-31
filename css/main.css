@@ -4,7 +4,8 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+p {
     font-family: 'Sarabun', sans-serif;
 }
 
@@ -23,6 +24,15 @@ body {
 .color-bg-font {
     background-color: #ED1C24;
     color: white;
+}
+
+hr,
+footer hr {
+    background-color: #E2DFDF;
+}
+
+hr {
+    margin: 0;
 }
 
 
@@ -119,8 +129,7 @@ body {
 /* Header group text */
 
 .header-group,
-#contact-banner,
-#review-section {
+#contact-banner {
     background-color: #ECEDFD;
     padding: 20px;
 }
@@ -133,19 +142,19 @@ body {
 .divider {
     display: inline-block;
     height: 50px;
-    border-left: 1px solid #BB8378;
-    border-right: 1px solid #BB8378;
+    border-left: 1px solid #BDBECA;
+    border-right: 1px solid #BDBECA;
 }
 
 
 /* Welcome Section */
 
-#welcome {
-    margin: 20px 0;
-}
-
 .welcome-text {
     padding: 0 100px;
+}
+
+.welcome-text p span {
+    display: block;
 }
 
 
@@ -156,7 +165,8 @@ body {
 }
 
 .products-group p {
-    text-align: left;
+    text-align: center;
+    font-weight: 200;
 }
 
 
@@ -188,6 +198,23 @@ body {
 
 .review-header h3 {
     margin: 20px 0;
+}
+
+
+/* Ask Expert */
+
+#expert {
+    background-color: #ECEDFD;
+}
+
+.expert-pics {
+    text-align: right;
+}
+
+.expert-pics img {
+    width: 300px;
+    display: inline-block;
+    margin-right: 100px;
 }
 
 
@@ -280,6 +307,10 @@ body {
     .products-group {
         padding: 0 10px;
     }
+    .products-group .column {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
     /* Contact Banner */
     #contact-banner {
         padding: 30px 0 20px 0;
@@ -300,6 +331,10 @@ body {
     #expert {
         display: none;
     }
+    #review-section div.item {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
     /* footer */
     #footer {
         padding: 30px 0 50px 0;
@@ -315,6 +350,10 @@ body {
     }
     /* Contact.php */
     #contact .contact-detail {
+        text-align: center;
+    }
+    /* Service.php */
+    #company-service h1 {
         text-align: center;
     }
 }
@@ -337,6 +376,10 @@ body {
     .welcome-text {
         padding: 0 20px;
     }
+    /* Product-cate */
+    #product-cate {
+        padding-top: 0;
+    }
     /* Contact Banner */
     #contact-banner {
         padding: 30px;
@@ -356,6 +399,7 @@ body {
 /* Responsive 1024 up */
 
 @media only screen and (min-width: 1024px) {
+    /* Navbar */
     .navbar-menu a,
     .navbar-end p {
         font-size: 18px;
@@ -366,26 +410,28 @@ body {
     .navbar-menu {
         margin-left: 30px;
     }
+    /* Product Categories */
     #product-cate {
         padding-top: 0;
         margin: 20px 0;
     }
+    .products-group .column,
+    #promotion .columns .column,
+    #new-product .columns .column {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
     #promotion,
-    #expert,
     #review-section,
     #new-product {
         margin: 20px 0;
     }
+    #expert {
+        margin-top: 20px;
+    }
     /* Contact Bannner */
     #contact-banner img {
         width: 400px;
-    }
-    /* Expert */
-    #expert {
-        padding-top: 0;
-    }
-    #new-product {
-        padding-top: 20px;
     }
     .contact-banner-pic {
         text-align: right;
@@ -458,7 +504,7 @@ body {
     }
     .arrow {
         position: absolute;
-        right: 40px;
+        right: 35px;
         transform: rotate(90deg);
     }
     .arrow.arrow-up {
@@ -489,6 +535,8 @@ body {
     .arrow {
         position: absolute;
         right: 5px;
+        top: 3px;
         transform: rotate(90deg);
+        font-size: 15px;
     }
 }

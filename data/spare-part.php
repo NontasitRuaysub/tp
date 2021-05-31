@@ -16,20 +16,20 @@
             <div class="container">
                 <nav class="breadcrumb" aria-label="breadcrumbs">
                     <ul>
-                        <li><a href="../index.php">หมวดหมู่สินค้า</a></li>
-                        <li class="is-active"><a href="#">อะไหล่,อุปกรณ์การแพทย์</a></li>
+                        <li class="has-text-weight-light"><a href="../index.php">หมวดหมู่สินค้า</a></li>
+                        <li class="is-active has-text-weight-light"><a href="#">อะไหล่,อุปกรณ์การแพทย์</a></li>
                     </ul>
                 </nav>
             </div>
         </section>
         <!-- Header Product-->
-        <section id="product" class="section">
+        <section id="spare-part" class="section">
             <div class="container">
-                <h1 class="title is-size-4-touch is-size-2-desktop has-text-weight-bold has-text-centered">อะไหล่, อุปกรณ์ทางการแพทย์ต่างๆ</h1>
+                <h1 class="title is-size-5 has-text-weight-bold has-text-centered">อะไหล่, อุปกรณ์ทางการแพทย์ต่างๆ</h1>
                 <!-- Products list -->
 
                 <!-- สาย SpO2 / ECG / Cable [Original, OEM] -->
-                <h4 class="title is-size-6-touch is-size-4-desktop">สาย SpO2 / ECG / Cable [Original, OEM]</h4>
+                <h4 class="is-size-5">สาย SpO2 / ECG / Cable [Original, OEM]</h4>
                 <div class="columns is-multiline is-mobile products-group">
                     <div class="column is-6-mobile is-3-tablet">
                         <div class="content">
@@ -53,7 +53,7 @@
                     </div>
                 </div>
                 <!-- ชุดปรับแต่งแรงดันออกซิเจน -->
-                <h4 class="title is-size-6-touch is-size-4-desktop">ชุดปรับแต่งแรงดันออกซิเจน</h4>
+                <h4 class="is-size-5">ชุดปรับแต่งแรงดันออกซิเจน</h4>
                 <div class="columns is-multiline is-mobile products-group">
                     <div class="column is-6-mobile is-3-tablet">
                         <div class="content">
@@ -77,7 +77,7 @@
                     </div>
                 </div>
                 <!-- Oxygen Sensor [O2Call] -->
-                <h4 class="title is-size-6-touch is-size-4-desktop">Oxygen Sensor [O2Call]</h4>
+                <h4 class="is-size-5">Oxygen Sensor [O2Call]</h4>
                 <div class="columns is-multiline is-mobile products-group">
                     <div class="column is-6-mobile is-3-tablet">
                         <div class="content">
@@ -101,7 +101,7 @@
                     </div>
                 </div>
                 <!-- ล้อรถเข็นทางการแพทย์ -->
-                <h4 class="title is-size-6-touch is-size-4-desktop">ล้อรถเข็นทางการแพทย์</h4>
+                <h4 class="is-size-5">ล้อรถเข็นทางการแพทย์</h4>
                 <div class="columns is-multiline is-mobile products-group">
                     <div class="column is-6-mobile is-3-tablet">
                         <div class="content">

@@ -1,12 +1,14 @@
 /* Product Section */
 
-#product {
+#product,
+#spare-part {
     padding-top: 0;
     padding-bottom: 0;
     margin-bottom: 50px;
 }
 
-#product h1 {
+#product h1,
+#spare-part h1 {
     margin-bottom: 50px;
 }
 
@@ -25,6 +27,10 @@
     .oxygen-name {
         display: block;
     }
+    #spare-part h4 {
+        text-align: center;
+        margin-bottom: 25px;
+    }
 }
 
 
@@ -32,22 +38,28 @@
 
 @media only screen and (min-width: 769px) and (max-width: 1023px) {
     #product .columns .column {
-        padding: 20px 30px;
+        padding: 20px 80px;
     }
     #product .columns .column img {
         margin-bottom: 20px;
+    }
+    #spare-part h4 {
+        margin-bottom: 25px;
     }
 }
 
 
-/* Responsive 1024px - 1215px */
+/* Responsive 1024px up */
 
 @media only screen and (min-width: 1024px) {
     #product .columns .column {
-        padding: 20px 60px;
+        padding: 20px 150px;
     }
     #product .columns .column img {
         margin-bottom: 20px;
+    }
+    #spare-part .columns .column {
+        padding: 40px 60px 20px 60px;
     }
 }
 

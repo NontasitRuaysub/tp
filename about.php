@@ -15,8 +15,8 @@
             <div class="container">
                 <nav class="breadcrumb" aria-label="breadcrumbs">
                     <ul>
-                        <li><a href="index.php">หน้าแรก</a></li>
-                        <li class="is-active"><a href="#">เกี่ยวกับเรา</a></li>
+                        <li class="has-text-weight-light"><a href="index.php">หน้าแรก</a></li>
+                        <li class="is-active has-text-weight-light"><a href="#">เกี่ยวกับเรา</a></li>
                     </ul>
                 </nav>
             </div>

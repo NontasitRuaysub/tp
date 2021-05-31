@@ -15,8 +15,8 @@
             <div class="container">
                 <nav class="breadcrumb" aria-label="breadcrumbs">
                     <ul>
-                        <li><a href="index.php">หน้าแรก</a></li>
-                        <li class="is-active"><a href="#">บริการของเรา</a></li>
+                        <li class="has-text-weight-light"><a href="index.php">หน้าแรก</a></li>
+                        <li class="is-active has-text-weight-light"><a href="#">บริการของเรา</a></li>
                     </ul>
                 </nav>
             </div>
@@ -34,14 +34,14 @@
                     </div>
                     <div class="column is-6-tablet">
                         <div class="content">
-                            <h1 class="title is-size-4-mobile is-size-4-tablet has-text-weight-bold">บริการซ่อมอุปกรณ์ทางการแพทย์ทุกชนิด</h1>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                            <h1 class="title is-size-5 has-text-weight-bold">บริการซ่อมอุปกรณ์ทางการแพทย์ทุกชนิด</h1>
+                            <p class="is-size-6 has-text-weight-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                         </div>
                     </div>
                     <div class="column is-6-tablet">
                         <div class="content">
-                            <h1 class="title is-size-4-mobile is-size-4-tablet has-text-weight-bold">บริการสอบเทียบเครื่องมือแพทย์</h1>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                            <h1 class="title is-size-5 has-text-weight-bold">บริการสอบเทียบเครื่องมือแพทย์</h1>
+                            <p class="is-size-6 has-text-weight-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                         </div>
                     </div>
                     <div class="column is-6-tablet">

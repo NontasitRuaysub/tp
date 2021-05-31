@@ -4,12 +4,14 @@
         <div class="columns is-vcentered">
             <div class="column">
                 <div class="content">
-                    <p class="is-size-4-touch is-size-4-desktop has-text-weight-bold p-3">ติดต่อผู้เชี่ยวชาญเพื่อขอรายละเอียด</p>
+                    <p class="is-size-5 has-text-weight-bold p-3">ติดต่อผู้เชี่ยวชาญเพื่อขอรายละเอียด</p>
                 </div>
             </div>
             <div class="column">
                 <div class="content contact-banner-pic">
-                    <img src="images/contact-img/line-banner.png" alt="Line id tpprotech18" title="Line id tpprotech18">
+                    <a href="https://line.me/R/ti/p/%40578iorbb">
+                        <img src="images/contact-img/line-banner.png" alt="Line id tpprotech18" title="Line id tpprotech18">
+                    </a>
                 </div>
             </div>
         </div>
@@ -47,5 +49,5 @@
         </div>
     </div>
     <hr>
-    <p class="has-text-centered is-uppercase mt-6"><span>&copy</span>2021 t&p protech</p>
+    <p class="has-text-centered is-uppercase is-size-6 mt-6"><span>&copy</span>2021 t&p protech</p>
 </footer>
