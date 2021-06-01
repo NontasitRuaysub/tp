@@ -13,7 +13,7 @@
             <div class="column">
                 <div class="content contact-banner-pic">
                     <a href="https://line.me/R/ti/p/%40578iorbb">
-                        <img src="../images/contact-img/line-banner.png" alt="Line id tpprotech18" title="Line id tpprotech18">
+                        <img src="../images/contact-img/line-banner.jpg" alt="Line id tpprotech18" title="Line id tpprotech18">
                     </a>
                 </div>
             </div>
@@ -46,7 +46,7 @@
             <div class="column has-text-centered">
                 <div class="content is-size-6">
                     <p>Line ID: tpprotech12</p>
-                    <img src="../images/contact-img/line-banner.jpg" alt="Line id tpprotech12" title="Line id tpprotech12">
+                    <img src="../images/contact-img/line-qr-code.jpg" alt="Line id tpprotech12" title="Line id tpprotech12">
                 </div>
             </div>
         </div>
