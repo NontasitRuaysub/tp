@@ -14,12 +14,14 @@
         <!-- Breadcrumb -->
         <section id="breadcrumb" class="section">
             <div class="container">
-                <nav class="breadcrumb" aria-label="breadcrumbs">
-                    <ul>
-                        <li class="has-text-weight-light"><a href="../index.php">หมวดหมู่สินค้า</a></li>
-                        <li class="is-active has-text-weight-light"><a href="#">อะไหล่,อุปกรณ์การแพทย์</a></li>
-                    </ul>
-                </nav>
+                <div class="content">
+                    <nav class="breadcrumb" aria-label="breadcrumbs">
+                        <ul>
+                            <li class="has-text-weight-light"><a href="../index.php">หมวดหมู่สินค้า</a></li>
+                            <li class="is-active has-text-weight-light"><a href="#">อะไหล่,อุปกรณ์การแพทย์</a></li>
+                        </ul>
+                    </nav>
+                </div>
             </div>
         </section>
         <!-- Header Product-->

@@ -14,12 +14,14 @@
         <!-- Breadcrumb -->
         <section id="breadcrumb" class="section">
             <div class="container">
-                <nav class="breadcrumb" aria-label="breadcrumbs">
-                    <ul>
-                        <li class="has-text-weight-light"><a href="../index.php">หมวดหมู่สินค้า</a></li>
-                        <li class="is-active has-text-weight-light"><a href="#">เครื่องเฝ้าสัญญาณชีพผู้ป่วย</a></li>
-                    </ul>
-                </nav>
+                <div class="content">
+                    <nav class="breadcrumb" aria-label="breadcrumbs">
+                        <ul>
+                            <li class="has-text-weight-light"><a href="../index.php">หมวดหมู่สินค้า</a></li>
+                            <li class="is-active has-text-weight-light"><a href="#">เครื่องเฝ้าสัญญาณชีพผู้ป่วย</a></li>
+                        </ul>
+                    </nav>
+                </div>
             </div>
         </section>
 
@@ -31,38 +33,56 @@
                 <div class="columns is-multiline is-mobile products-group">
                     <div class="column is-6">
                         <div class="content">
-                            <img src="../images/product-groups/vital-sign/E10.jpg" alt="ยี่ห้อ Yonker รุ่น E10" title="ยี่ห้อ Yonker รุ่น E10">
-                            <p class="is-size-6 has-text-weight-light mt-4">ยี่ห้อ Yonker รุ่น E10</p>
+                            <img src="../images/product-groups/vital-sign/CMS6000.jpg" alt="CMS6000" title="CMS6000">
+                            <p class="is-size-6 has-text-weight-light mt-4">CMS6000</p>
                         </div>
                     </div>
                     <div class="column is-6">
                         <div class="content">
-                            <img src="../images/product-groups/vital-sign/yk-8000A1.jpg" alt="ยี่ห้อ Yonker รุ่น yk-8000A1" title="ยี่ห้อ Yonker รุ่น yk-8000A1">
-                            <p class="is-size-6 has-text-weight-light mt-4">ยี่ห้อ Yonker รุ่น yk-8000A1</p>
+                            <img src="../images/product-groups/vital-sign/CMS6500.jpg" alt="CMS6500" title="CMS6500">
+                            <p class="is-size-6 has-text-weight-light mt-4">CMS6500</p>
                         </div>
                     </div>
                     <div class="column is-6">
                         <div class="content">
-                            <img src="../images/product-groups/vital-sign/DS3000.jpg" alt="ยี่ห้อ Dist (USA) รุ่น DS3000" title="ยี่ห้อ Dist (USA) รุ่น DS3000">
-                            <p class="is-size-6 has-text-weight-light mt-4">ยี่ห้อ Dist (USA) รุ่น DS3000</p>
+                            <img src="../images/product-groups/vital-sign/CMS6800.jpg" alt="CMS6800" title="CMS6800">
+                            <p class="is-size-6 has-text-weight-light mt-4">CMS6800</p>
                         </div>
                     </div>
                     <div class="column is-6">
                         <div class="content">
-                            <img src="../images/product-groups/vital-sign/Apollo-N2.jpg" alt="ยี่ห้อ Apollo รุ่น N2" title="ยี่ห้อ Apollo รุ่น N2">
-                            <p class="is-size-6 has-text-weight-light mt-4">ยี่ห้อ Apollo รุ่น N2</p>
+                            <img src="../images/product-groups/vital-sign/CMS7000-CMS8000-CMS9000.jpg" alt="CMS7000/CMS8000/CMS9000" title="CMS7000/CMS8000/CMS9000">
+                            <p class="is-size-6 has-text-weight-light mt-4">CMS7000/<span class="cms-name">CMS8000/</span>CMS9000</p>
                         </div>
                     </div>
                     <div class="column is-6">
                         <div class="content">
-                            <img src="../images/product-groups/vital-sign/STAR8000.jpg" alt="ยี่ห้อ Comen รุ่น STAR8000" title="ยี่ห้อ Comen รุ่น STAR8000">
-                            <p class="is-size-6 has-text-weight-light mt-4">ยี่ห้อ Comen รุ่น STAR8000</p>
+                            <img src="../images/product-groups/vital-sign/CMS9200.jpg" alt="CMS9200" title="CMS9200">
+                            <p class="is-size-6 has-text-weight-light mt-4">CMS9200</p>
                         </div>
                     </div>
                     <div class="column is-6">
                         <div class="content">
-                            <img src="../images/product-groups/vital-sign/IE82.jpg" alt="ยี่ห้อ Yonker รุ่น IE8" title="ยี่ห้อ Yonker รุ่น IE8">
-                            <p class="is-size-6 has-text-weight-light mt-4">ยี่ห้อ Yonker รุ่น IE8</p>
+                            <img src="../images/product-groups/vital-sign/PM50.jpg" alt="PM50" title="PM50">
+                            <p class="is-size-6 has-text-weight-light mt-4">PM50</p>
+                        </div>
+                    </div>
+                    <div class="column is-6">
+                        <div class="content">
+                            <img src="../images/product-groups/vital-sign/Comen-c80.jpg" alt="COMEN C80" title="COMEN C80">
+                            <p class="is-size-6 has-text-weight-light mt-4">COMEN C80</p>
+                        </div>
+                    </div>
+                    <div class="column is-6">
+                        <div class="content">
+                            <img src="../images/product-groups/vital-sign/SE-1200.jpg" alt="SE 1200" title="SE 1200">
+                            <p class="is-size-6 has-text-weight-light mt-4">SE 1200</p>
+                        </div>
+                    </div>
+                    <div class="column is-6">
+                        <div class="content">
+                            <img src="../images/product-groups/vital-sign/ZD120E.jpg" alt="ZD 120E" title="ZD 120E">
+                            <p class="is-size-6 has-text-weight-light mt-4">ZD 120E</p>
                         </div>
                     </div>
                 </div>

@@ -13,12 +13,14 @@
         <!-- breadcrumb -->
         <section id="breadcrumb" class="section">
             <div class="container">
-                <nav class="breadcrumb" aria-label="breadcrumbs">
-                    <ul>
-                        <li class="has-text-weight-light"><a href="index.php">หน้าแรก</a></li>
-                        <li class="is-active has-text-weight-light"><a href="#">ติดต่อเรา</a></li>
-                    </ul>
-                </nav>
+                <div class="content">
+                    <nav class="breadcrumb" aria-label="breadcrumbs">
+                        <ul>
+                            <li class="has-text-weight-light"><a href="index.php">หน้าแรก</a></li>
+                            <li class="is-active has-text-weight-light"><a href="#">ติดต่อเรา</a></li>
+                        </ul>
+                    </nav>
+                </div>
             </div>
         </section>
 

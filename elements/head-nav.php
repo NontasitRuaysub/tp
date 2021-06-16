@@ -1,7 +1,6 @@
 <!-- Header Text -->
 <div id="header-text" class="color-bg-font py-5">
-    <p class="is-size-6 has-text-centered">ทางบริษัทแจ้งหยุดทำการวันสงกรานต์ตั้งแต่วันที่ 13-16 เมษายน
-        2564</p>
+    <p class="is-size-6 has-text-centered">ยินดีต้อนรับเข้าสู่ ทีแอนด์พี โปรเทค จำกัด</p>
 </div>
 <!-- Navbar -->
 <nav id="header-navbar" class="navbar" role="navigation" aria-label="main navigation">

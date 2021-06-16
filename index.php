@@ -21,6 +21,9 @@
             <div class="item">
                 <img src="images/carousel-img/sample-3.jpg" alt="T&P Protect image" title="บริการซ่อมเครื่องมือแพทย์ทุกชนิด จากทีมงานช่างมืออาชีพ">
             </div>
+            <div class="item">
+                <img src="images/carousel-img/sample-4.jpg" alt="โครงการ WE JUST GIVE" title="โครงการ WE JUST GIVE">
+            </div>
         </div>
         <!-- header group text -->
         <div class="has-text-centered header-group">
@@ -53,7 +56,7 @@
         <section id="welcome" class="section">
             <div class="container">
                 <div class="content has-text-centered welcome-text">
-                    <h1 class="is-size-5 has-text-weight-bold mb-6">ยินดีต้อนรับสู่<span>ทีแอนด์พี โปรเทค</span></h1>
+                    <h1 class="is-size-5 has-text-weight-bold">ยินดีต้อนรับสู่<span>ทีแอนด์พี โปรเทค</span></h1>
                     <p class="is-size-6 has-text-weight-light">เราเป็นผู้เชี่ยวชาญด้านการจำหน่ายอุปรณ์เครื่องมือแพทย์ แบบครบวงจร<span>เรามีบริการรับซ่อมเครื่องมือแพทย์ทุกชนิด รวมถึง บริการสอบเทียบเครื่องมือแพทย์</span>โดยทีมงานมืออาชีพ ที่ได้รับความไว้วางใจจากลูกค้าโรงพยาบาลชั้นนำในประเทศไทย<span></p>
                 </div>
             </div>
@@ -171,8 +174,8 @@
                 <div class="columns is-vcentered">
                     <div class="column">
                         <div class="content">
-                            <p class="is-size-5 has-text-weight-bold p-3">ติดต่อสั่งซื้อสินค้า
-                                สอบถามรายละเอียด<span>หรือขอใบเสนอราคาได้แล้ววันนี้ !</span>
+                            <p class="is-size-5 has-text-weight-bold">ติดต่อสั่งซื้อสินค้า
+                                สอบถามรายละเอียด หรือ <span>ขอใบเสนอราคาได้แล้ววันนี้ !</span>
                             </p>
                         </div>
                     </div>

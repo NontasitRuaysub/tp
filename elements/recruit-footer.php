@@ -4,15 +4,13 @@
         <div class="columns is-vcentered">
             <div class="column contact-banner-text">
                 <div class="content">
-                    <p class="is-size-5 has-text-weight-bold">ติดต่อสั่งซื้อสินค้า
-                        สอบถามรายละเอียด<span>รุ่น ยี่ห้อ หรือ ขอใบเสนอราคาได้แล้ววันนี้</span>
-                    </p>
+                    <p class="is-size-5 has-text-weight-bold p-3">ติดต่อเพื่อสมัครงานโทร.0891658886 <br>หรือติดต่อทางไลน์</p>
                 </div>
             </div>
             <div class="column">
                 <div class="content contact-banner-pic">
                     <a href="https://line.me/R/ti/p/%40578iorbb">
-                        <img src="../images/contact-img/line-banner.jpg" alt="Line id tpprotech18" title="Line id tpprotech18">
+                        <img src="images/contact-img/line-banner.jpg" alt="Line id tpprotech18" title="Line id tpprotech18">
                     </a>
                 </div>
             </div>
@@ -25,12 +23,13 @@
         <div class="columns">
             <div class="column">
                 <nav id="footer-nav">
-                    <div class="content has-text-left is-size-6">
-                        <a href="../index.php">หน้าแรก</a>
-                        <a href="../about.php">เกี่ยวกับเรา</a>
-                        <a href="../service.php">บริการของเรา</a>
-                        <a href="../q-and-a.php">คำถามที่พบบ่อย</a>
-                        <a href="../recruitment.php">ร่วมงานกับเรา</a>
+                    <div class="content is-size-6 has-text-left">
+                        <a href="index.php">หน้าแรก</a>
+                        <a href="#">เกี่ยวกับเรา</a>
+                        <a href="#">สินค้าของเรา</a>
+                        <a href="service.php">บริการของเรา</a>
+                        <a href="q-and-a.php">คำถามที่พบบ่อย</a>
+                        <a href="recruitment.php">ร่วมงานกับเรา</a>
                     </div>
                 </nav>
             </div>
@@ -45,8 +44,8 @@
             </div>
             <div class="column has-text-centered">
                 <div class="content is-size-6">
-                    <p>Line ID: tpprotech12</p>
-                    <img src="../images/contact-img/line-qr-code.jpg" alt="Line id tpprotech12" title="Line id tpprotech12">
+                    <p>Line ID: tpprotech18</p>
+                    <img src="images/contact-img/line-qr-code.jpg" alt="Line id tpprotech12" title="Line id tpprotech12">
                 </div>
             </div>
         </div>

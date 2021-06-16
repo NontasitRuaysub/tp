@@ -13,23 +13,26 @@
         <!-- breadcrumb -->
         <section id="breadcrumb" class="section">
             <div class="container">
-                <nav class="breadcrumb" aria-label="breadcrumbs">
-                    <ul>
-                        <li class="has-text-weight-light"><a href="index.php">หน้าแรก</a></li>
-                        <li class="is-active has-text-weight-light"><a href="#">เกี่ยวกับเรา</a></li>
-                    </ul>
-                </nav>
+                <div class="content">
+                    <nav class="breadcrumb" aria-label="breadcrumbs">
+                        <ul>
+                            <li class="has-text-weight-light"><a href="index.php">หน้าแรก</a></li>
+                            <li class="is-active has-text-weight-light"><a href="#">เกี่ยวกับเรา</a></li>
+                        </ul>
+                    </nav>
+                </div>
             </div>
         </section>
         <!-- About Company section -->
         <section id="about-company" class="section">
             <div class="container">
                 <div class="content">
-                    <img src="images/about-img/sample.jpg" alt="T&P Protect image">
-                    <h1 class="title is-size-4-mobile is-size-4-tablet has-text-weight-bold">บริษัท ทีแอนด์พี โปรเทค</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <img src="images/about-img/professional-team-worker.jpg" alt="T&P Protect" title="T&P Protect professional-team-worker">
+                    <h1 class="title is-size-4-mobile is-size-4-tablet has-text-weight-bold">บริษัท ทีแอนด์พี โปรเทค จำกัด</h1>
+                    <p>(T&P Protech CO.,LTD.)</p>
+                    <p>ก่อตั้งขึ้นมาเมื่อปี ค.ศ. 2018 โดย คุณ ญาณิดา พัทธ์ศุภเดช และคุณ ธนิสร พัทธ์ศุภเดช ซึ่งมีวิสัยทัศน์ มองเห็นการเติบโตของสายธุรกิจนี้จึงได้จัดตั้ง เป็นบริษัทจัดจำหน่ายเครื่องมือแพทย์, งานซ่อม Service, Maintenance ดูแลและบำรุงรักษาให้กับโรงพยาบาลทั่วประเทศโดยช่างผู้ชำนาญการเฉพาะทาง</p>
+                    <p>แต่ละประเภทเพื่อให้เพียบพอกับความต้องการของตลาดที่กำลังเติบโตขึ้น</p>
+                    <p>ปัจจุบันทางบริษัทยังได้นำเข้าสินค้าเพื่อตอบสนองต่อความต้องการของภาคธุรกิจนี้ แถมส่งเสริมหรือการทำบุญ, บริจาคในภาคธุรกิจนี้คืนสู่สังคมสืบไป<p>
                 </div>
             </div>
         </section>
