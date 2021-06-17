@@ -419,6 +419,32 @@ hr {
         border-top: 1px solid rgba(255, 255, 255, 0.3);
         border-bottom: 1px solid rgba(255, 255, 255, 0.3);
     }
+    .footer-line-group {
+        padding-top: 30px;
+    }
+    .footer-line-image .line-icon,
+    .footer-line-image p {
+        display: inline-block;
+    }
+    .footer-line-image .line-icon {
+        width: 50px;
+        margin-right: 10px;
+        border-radius: 10px;
+    }
+    .footer-line-image p {
+        margin-top: 10px;
+    }
+    .footer-line-image p span {
+        display: none;
+    }
+    .footer-line-image {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .footer-line-image .line-qr-code-img {
+        display: none;
+    }
     /* Contact.php */
     #contact {
         padding-top: 48px;
@@ -480,6 +506,12 @@ hr {
     /* Footer */
     #footer-nav .content {
         padding: 0 40px;
+    }
+    .footer-line-group .footer-line-image p span {
+        display: inline;
+    }
+    .line-icon {
+        display: none;
     }
     /* Contact.php */
     #contact {
@@ -550,6 +582,13 @@ hr {
     .contact-banner-pic {
         text-align: right;
         padding-top: 10px;
+    }
+    /* footer */
+    .footer-line-group .footer-line-image p span {
+        display: inline;
+    }
+    .line-icon {
+        display: none;
     }
     /* Service.php */
     #company-service .columns,
