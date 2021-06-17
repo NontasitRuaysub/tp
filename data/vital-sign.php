@@ -85,6 +85,12 @@
                             <p class="is-size-6 has-text-weight-light mt-4">ZD 120E</p>
                         </div>
                     </div>
+                    <div class="column is-6">
+                        <div class="content">
+                            <img src="../images/product-groups/vital-sign/EDAN_iM8B.jpg" alt="EDAN IM8B" title="EDAN IM8B">
+                            <p class="is-size-6 has-text-weight-light mt-4">EDAN IM8B</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>

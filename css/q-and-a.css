@@ -64,6 +64,9 @@
 /* responsive 320px - 768px */
 
 @media only screen and (min-width: 320px) and (max-width: 768px) {
+    #according-section {
+        padding-top: 48px;
+    }
     .according .content-box .question-box {
         padding-left: 15px;
     }

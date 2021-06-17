@@ -89,7 +89,7 @@
                     </div>
                     <div class="content content-box">
                         <div class="question-box">
-                            <p class="is-size-6 has-text-weight-light">8. มีแคตตาล๊อคสินค้าที่สามารถส่งให้ทางอีเมล์ได้หรือไม่?</p>
+                            <p class="is-size-6 has-text-weight-light">8. มีแคตตาล็อกสินค้าที่สามารถส่งให้ทางอีเมล์ได้หรือไม่?</p>
                         </div>
                         <div class="answer-box">
                             <p class="is-size-6 has-text-weight-light">สามารถขอแคตตาล็อกสินค้าได้ที่ผู้แทนการขายของเราที่ 063-526-9923 หรือ 089-165-8886  หรือส่งอีเมล์หาเราได้ที่ tpprotech18@gmail.com</p>

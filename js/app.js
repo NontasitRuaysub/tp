@@ -1,7 +1,8 @@
 // Carousel header
 $('.owl-carousel').owlCarousel({
     autoplay: true,
-    autoplayTimeout: 5000,
+    autoplayTimeout: 10000,
+    autoplayHoverPause: true,
     loop: true,
     margin: 0,
     nav: false,
