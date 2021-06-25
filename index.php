@@ -182,7 +182,7 @@
                     <div class="column">
                         <div class="content contact-banner-pic">
                             <a href="https://line.me/R/ti/p/%40578iorbb">
-                                <img src="images/contact-img/line-banner.jpg" alt="Line id tpprotech18" title="Line id tpprotech18">
+                                <img src="images/line-img/line-banner.jpg" alt="Line id tpprotech18" title="Line id tpprotech18">
                             </a>
                         </div>
                     </div>
@@ -260,7 +260,7 @@
             <div class="container">
                 <div class="columns is-vcentered expert-group">
                     <div class="column expert-pics">
-                        <img src="images/ask-img/contact-us.jpg" alt="สอบถามผู้เชี่ยวชาญด้านอุปกรณ์การแพทย์" title="สอบถามผู้เชี่ยวชาญด้านอุปกรณ์การแพทย์">
+                        <img src="images/ask-img/expert-team.jpg" alt="สอบถามผู้เชี่ยวชาญด้านอุปกรณ์การแพทย์" title="สอบถามผู้เชี่ยวชาญด้านอุปกรณ์การแพทย์">
                     </div>
                     <div class="column">
                         <div class="content px-4 expert-text">

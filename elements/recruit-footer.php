@@ -44,9 +44,9 @@
             </div>
             <div class="column has-text-centered footer-line-group">
                 <div class="content is-size-6 footer-line-image">
-                    <img class="line-icon" src="images/contact-img/line.png" alt="Line id tpprotech18" title="Line id tpprotech18">
-                    <p><span>Line ID:</span> @tpprotech18</p>
-                    <img class="line-qr-code-img" src="images/contact-img/line-qr-code.jpg" alt="Line id tpprotech18" title="Line id tpprotech18">
+                    <img class="line-icon" src="images/line-img/line.png" alt="Line id tpprotech18" title="Line id tpprotech18">
+                    <p><span>Line ID:</span> <a href="https://line.me/R/ti/p/%40578iorbb">@tpprotech18</a></p>
+                    <img class="line-qr-code-img" src="images/line-img/line-qr-code.jpg" alt="Line id tpprotech18" title="Line id tpprotech18">
                 </div>
             </div>
         </div>

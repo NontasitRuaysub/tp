@@ -42,7 +42,7 @@
                     </div>
                     <div class="column is-12-mobile is-6-tablet contact-line">
                         <p class="is-size-6">หรือ แสกน QR code เพื่อติดต่อเราทางไลน์</p>
-                        <img class="mt-4" src="images/contact-img/line-qr-code.jpg" alt="@tpprotech18" title="@tpprotech18">
+                        <img class="mt-4" src="images/line-img/line-qr-code.jpg" alt="@tpprotech18" title="@tpprotech18">
                     </div>
                 </div>
             </div>
